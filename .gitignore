@@ -1,0 +1,12 @@
+*.*
+ORTitleTech
+ortdevops
+github
+!.gitignore
+!.tmux.conf
+!.tmux
+!.zshrc
+!.zshenv
+!.config
+.config/Code
+.tmux/plugins
